@@ -20,4 +20,28 @@ module MyEnumerable
     end
     result
   end
+
+  def max
+    max = nil
+    each do |e|
+      max = e if max.nil? || e > max
+    end
+    max
+  end
+
+  def min
+    min = nil
+    each do |e|
+      min = e if min.nil? || e < min
+    end
+    min
+  end
+
+  def sort
+    result = []
+    each do |e|
+      result << e
+    end
+    result.sort
+  end
 end
