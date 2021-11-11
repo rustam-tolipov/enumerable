@@ -1,4 +1,4 @@
-# enumerable
+# Enumerable
 
 During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
 
@@ -8,7 +8,7 @@ During your vacation at the seaside, time after time you find old bottles with p
 
 ## Getting Started
 
-- git clone ?
+- git clone https://github.com/Rustamxon7/Enumerable.git
 - cd enumerable
 
 ## Authors
@@ -35,7 +35,7 @@ During your vacation at the seaside, time after time you find old bottles with p
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](?).
+Feel free to check the [issues page](https://github.com/Rustamxon7/Enumerable/issues).
 
 ## Show your support
 
